@@ -17,7 +17,7 @@ bmw;gas;std;4;sedan;rwd;front;189;66.9;55.7;ohc;6;164;mpfi;121;4250;20;25;24565
 bmw;gas;std;4;sedan;rwd;front;189;66.9;55.7;ohc;6;209;mpfi;182;5400;16;22;30760
 bmw;gas;std;2;sedan;rwd;front;193.8;67.9;53.7;ohc;6;209;mpfi;182;5400;16;22;41315
 bmw;gas;std;4;sedan;rwd;front;197;70.9;56.3;ohc;6;209;mpfi;182;5400;15;20;36880
-chevrolet;gas;std;2;hatchback;fwd;front;141.1;60.3;53.2;l;3;61;2bbl;48;5100;47;53;5151
+chevrolet;gas;std;2;hatchback;fwd;front;141.1;60.3;53.2;l;3;61;2bbl;48;5100;47;20;5151
 chevrolet;gas;std;2;hatchback;fwd;front;155.9;63.6;52;ohc;4;90;2bbl;70;5400;38;43;6295
 chevrolet;gas;std;4;sedan;fwd;front;158.8;63.6;52;ohc;4;90;2bbl;70;5400;38;43;6575
 dodge;gas;std;2;hatchback;fwd;front;157.3;63.8;50.8;ohc;4;90;2bbl;68;5500;37;41;5572
@@ -29,7 +29,7 @@ dodge;gas;std;4;sedan;fwd;front;157.3;63.8;50.6;ohc;4;90;2bbl;68;5500;31;38;7609
 dodge;gas;turbo;;sedan;fwd;front;157.3;63.8;50.6;ohc;4;98;mpfi;102;5500;24;30;8558
 dodge;gas;std;4;wagon;fwd;front;174.6;64.6;59.8;ohc;4;122;2bbl;88;5000;24;30;8921
 dodge;gas;turbo;2;hatchback;fwd;front;173.2;66.3;50.2;ohc;4;156;mfi;145;5000;19;24;12964
-honda;gas;std;2;hatchback;fwd;front;144.6;63.9;50.8;ohc;4;92;1bbl;58;4800;49;54;6479
+honda;gas;std;2;hatchback;fwd;front;144.6;63.9;50.8;ohc;4;92;1bbl;58;4800;49;19;6479
 honda;gas;std;2;hatchback;fwd;front;144.6;63.9;50.8;ohc;4;92;1bbl;76;6000;31;38;6855
 honda;gas;std;2;hatchback;fwd;front;150;64;52.6;ohc;4;79;1bbl;60;5500;38;42;5399
 honda;gas;std;2;hatchback;fwd;front;150;64;52.6;ohc;4;92;1bbl;76;6000;30;34;6529
@@ -48,7 +48,7 @@ isuzu;gas;std;4;sedan;fwd;front;155.9;63.6;52;ohc;4;90;2bbl;70;5400;38;43;
 isuzu;gas;std;2;hatchback;rwd;front;172.6;65.2;51.4;ohc;4;119;spfi;90;5000;24;29;11048
 jaguar;gas;std;4;sedan;rwd;front;199.6;69.6;52.8;dohc;6;258;mpfi;176;4750;15;19;32250
 jaguar;gas;std;4;sedan;rwd;front;199.6;69.6;52.8;dohc;6;258;mpfi;176;4750;15;19;35550
-jaguar;gas;std;2;sedan;rwd;front;191.7;70.6;47.8;ohcv;12;326;mpfi;262;5000;13;17;36000
+jaguar;gas;std;2;sedan;rwd;front;191.7;70.6;47.8;ohcv;12;326;mpfi;262;5000;13;39;36000
 mazda;gas;std;2;hatchback;fwd;front;159.1;64.2;54.1;ohc;4;91;2bbl;68;5000;30;31;5195
 mazda;gas;std;2;hatchback;fwd;front;159.1;64.2;54.1;ohc;4;91;2bbl;68;5000;31;38;6095
 mazda;gas;std;2;hatchback;fwd;front;159.1;64.2;54.1;ohc;4;91;2bbl;68;5000;31;38;6795
@@ -89,7 +89,7 @@ mitsubishi;gas;std;4;sedan;fwd;front;172.4;65.4;51.6;ohc;4;122;2bbl;88;5000;25;3
 mitsubishi;gas;turbo;4;sedan;fwd;front;172.4;65.4;51.6;ohc;4;110;spdi;116;5500;23;30;9279
 mitsubishi;gas;std;4;sedan;fwd;front;172.4;65.4;51.6;ohc;4;110;spdi;116;5500;23;30;9279
 nissan;gas;std;2;sedan;fwd;front;165.3;63.8;54.5;ohc;4;97;2bbl;69;5200;31;37;5499
-nissan;diesel;std;2;sedan;fwd;front;165.3;63.8;54.5;ohc;4;103;idi;55;4800;45;50;7099
+nissan;diesel;std;2;sedan;fwd;front;165.3;63.8;54.5;ohc;4;103;idi;55;4800;45;36;7099
 nissan;gas;std;2;sedan;fwd;front;165.3;63.8;54.5;ohc;4;97;2bbl;69;5200;31;37;6649
 nissan;gas;std;4;sedan;fwd;front;165.3;63.8;54.5;ohc;4;97;2bbl;69;5200;31;37;6849
 nissan;gas;std;4;wagon;fwd;front;170.2;63.8;53.5;ohc;4;97;2bbl;69;5200;31;37;7349
