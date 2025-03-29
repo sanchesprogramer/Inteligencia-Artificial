@@ -1,4 +1,4 @@
-#Utilização de Machine Learning para fornecer dados estratégicos para prevenção e mitigação de desastres naturais com o uso de gráficos para tomada de decisão.
+# Utilização de Machine Learning para fornecer dados estratégicos para prevenção e mitigação de desastres naturais com o uso de gráficos para tomada de decisão.
 
  
 Felipe de Almeida Parreira
@@ -15,24 +15,24 @@ Davi de Carvalho Sampaio
 Palavras-chave: Machine learning, IA , IOT, desastres naturais, mitigação de desastres
  
  
-#3.   	Resumo
+# 3.   	Resumo
 
 	Esse projeto utilizará os dados de datasets de para o aprendizado de máquina (Machine Learning, ML)(DUC, 2020)  para a construção de uma Inteligência Artificial (Artificial Inteligence, IA) que terá como objetivo prever quando poderá haver uma inundação com foco no desastre que ocorreu no Rio Grande do Sul. Para isso, utilizaremos métodos como um centro de mitigação que terão especialistas analisando os dados recebidos da IA, esses dados serão convertidos em gráficos utilizando a lógica Fuzzy(ADALZAHER, 2022) o que facilitará a decisão se será necessário ou não alertar a população de uma possível inundação.Os alertas serão feitos através de alarmes inteligentes (Smart alarms)(ASIF, 2023) que informarão a população da região sobre a possível inundação da região, permitindo assim, que vidas e diversos itens sejam salvos desse desastre.
-#4.   	Introdução
+# 4.   	Introdução
  
 O projeto surge para enfrentar os desafios impostos pela natureza por meio de desastres naturais mais especificamente inundações como por exemplo a inundação do Rio Grande do Sul onde 876 mil pessoas foram afetadas negativamente perdendo suas casas, animais de estimação e muitas vezes até suas vidas por causa da inundação ocorrida no dia 27 de abril de 2024 (IPEA, 2024). Portanto o projeto propõe utilizar os dados da internet das coisas (Internet of things, IOT) (PATSAVELLAS,2021) juntamente com técnicas de aprendizado de máquina (Machine Learning, ML) (DUC, 2020) para que seja possível construir uma solução de monitoramento, previsão e até mesmo divulgação de alertas em tempo real. Essa abordagem visa gerar e transmitir dados precisos e relevantes para auxiliar a tomada de decisão de equipes e entidades competentes. A solução irá utilizar sensores IOT distribuídos de forma estratégica para que seja possível a captação de informações ambientais como nível de chuva, umidade do solo e velocidade do vento. Esses dados serão processados por algoritmos de ML que será utilizado como base para uma Inteligência Artificial (Artificial Inteligence, IA) treinada que será responsável pela identificação de padrões que precedem eventos climáticos extremos. Com base nos dados analisados, o sistema irá gerar previsões de inundações, outros desastres associados e as áreas que serão mais afetadas. Como consequência, irá oferecer insights sobre a possibilidade e a gravidade desses eventos em locais específicos. Para garantir a confiabilidade e a integridade dessas informações, os dados que serão obtidos passaram por uma avaliação de pontuação de confiabilidade (IoT Trustability Score, ITS) (SADANANDAN, 2021). Essa avaliação irá verificar a consistência e a precisão dos dados fornecidos pelos sensores, integrando assim uma rede neural que identificará e filtrará possíveis inconsistências. Com isso, será possível aumentar a confiabilidade dos alertas emitidos. Os dados são convertidos em gráficos e indicadores visuais utilizando a Lógico Fuzzy (ADALZAHER, 2022), que permitirá o processamento de informações incertas e auxiliará na interpretação dos resultados. Em seguida, especialistas irão validar as informações processadas e aprovarão, ou não, a divulgação dos alertas. A comunicação dos resultados irá ocorrer por meio das redes sociais, outras plataformas digitais e até mesmo alarmes inteligentes (Smart alarms) (ASIF, 2023), com o objetivo de alcançar rapidamente o maior número de pessoas e permitir assim que a população e o governo tomem as medidas necessárias para segurança pessoal e coletiva. O sistema que foi proposto busca otimizar a resposta a desastres naturais e reduzir os impactos, proporcionando assim uma ferramenta poderosa de apoio à decisão para gestores e autoridades competentes envolvidas no gerenciamento de crises ambientais.
  
 # 5.   	Descrição do Problema
 
 O problema enfrentado é a falta de resposta eficiente em um tempo hábil e isso causava uma inevidência no combate aos desastres naturais, especialmente nas inundações. Esse acontecimento pode ser observado com mais clareza nas inundações do Rio Grande do Sul do dia 27 de abril de 2024. Os efeitos dessas catástrofes foram devastadoras pois tiveram muitas perdas de vidas humanas e não humanas, perda de moradias, perda de muitos investimentos que tinha na cidade e etc. Dito isso, o projeto tem como foco a incapacidade de prever com velocidade e precisão esses eventos, o que acarreta em uma perdas inestimáveis. hoje em dia a previsão de desastres naturais depende métodos mais arcaicos que não são tão eficazes por se tratar de um complexo entendimento dos dados da natureza. a falta de um sistema integrado com as redes sociais e um sistema que gera dados em gráficos de fácil leitura para especialistas acarreta em uma gestão de desastres naturais ineficiente e demorada. Portanto o projeto enfrenta um desafio em criar uma solução tecnológica que integre o monitoramento em tempo real, previsão de eventos externos e uma comunicação rápida e eficiente de alertas para toda população. 
-#6. Aspectos Éticos
+# 6. Aspectos Éticos
 
 
 Um dos aspectos importantes é o armazenamento de dados sensíveis, como o endereço do usuário por ser uma parte crucial do sistema. Os dados serão criptografados e armazenados em um banco de dados separados, e o acesso aos dados será restrito dentro do sistema para garantir a confidencialidade dos usuários. Para o tratamento de dados, os dados só serão utilizados para decidir qual será a área da comunicação de acordo com os dados meteorológicos presentes no sistema.
 A IA será utilizada na questão de análise de dados, onde as chuvas serão analisadas ao longo do tempo para poder gerar a previsão do próximo 
 
-#7. Dataset
-#8.   	Metodologia e Resultados Esperados
+# 7. Dataset
+# 8.   	Metodologia e Resultados Esperados
  
 Metodologia
 O projeto busca integrar informações fornecidas pelo Iot para treinar um aprendizado de máquina para que seja possível desenvolver uma solução robusta e eficaz no monitoramento e previsão de inundações e outros desastres naturais. A metodologia é composta por:
@@ -57,7 +57,7 @@ Resultados esperados
 
 5. Apoio a decisões governamentais e de gestão: O sistema irá fornecer informações sólidas para especialistas e autoridades competentes para que as mesma temem decisões mais rápidas e embasadas com dados reais. facilitando assim a gestão de desastres naturais  
 
-#9. REFERENCIAL TEÓRICO 
+# 9. REFERENCIAL TEÓRICO 
 
 O surgimento da IOT (PATSAVELLAS,2021) se deu a partir da quarta revolução industrial (4º Industrial Revolution 4IR), que permitiu o avanço da conexão sem fio e a conexão entre os mundos digital, biológicos e físicos, tornando assim possível a conexão entre dispositivos eletrônicos. (ANGRIAWAN, 2024)
 A crescente necessidade de utilizar diversos sensores em aplicações de IoT impulsionou o desenvolvimento das redes de sensores sem fio (Wireless Sensor Network, WSN). Essas redes possibilitam que múltiplos sensores se conectem a um cluster, responsável pelo processamento inicial das informações antes de enviá-las ao Arduino, onde são aplicadas
@@ -69,7 +69,7 @@ Por fim, após a validação do ITS os dados serão analisados por um grupo de e
 Para a mitigação de desastres naturais, o uso de tecnologias como IoT, WSN e a lógica Fuzzy permite obter dados em tempo real de múltiplos sensores conectados a servidores. Essas informações facilitam análises que permitem decisões mais assertivas, como a previsão e resposta a uma possível inundação. Com a coleta e análise desses dados, é possível criar uma base sólida para um sistema de alerta e resposta eficiente.
  
  
-10. Bibliografia
+# 10. Bibliografia
  
 ADALZAHER, Mohamed S; ELSAYED, Hussein A.; FOUDA, Mostafa, M.; Employing Remote Sensing, Data Communication Networks, AI, and Optimization Methodologies in Seismology. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING. [S.L.]. v. 15. n. 9417. p.9417 - 9438.
 Outubro 2022.
