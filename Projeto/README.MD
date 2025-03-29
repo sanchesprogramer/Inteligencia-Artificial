@@ -33,7 +33,26 @@ A IA será utilizada na questão de análise de dados, onde as chuvas serão ana
 
 # 7. Dataset
 
-Nossa base de dados contém uma coluna que se refere à data, outra coluna com os horários do dia, espaçados em períodos de 1 hora cada, uma coluna dizendo a quantidade de precipitação em milímetros naquele momento, e por fim, temos 3 colunas dizendo a umidade relativa do ar média, mínima e máxima, em porcentagem.
+Nosso dataset foi retirado do site do governo (https://portal.inmet.gov.br/dadoshistoricos) referente ao estado do Rio Grande do Sul, mais especificamente da cidade de Porto Alegre - Jardim Botânico no período de 01/01/2024 a 31/12/2024 em que contém as seguintes colunas:
+- Data (DD/MM/YYYY)
+- Hora UTC (HHMM UTC)
+- PRECIPITAÇÃO TOTAL, HORÁRIO (mm)
+- PRESSÃO ATMOSFERICA MAX.NA HORA ANT. (AUT) (mB)
+- PRESSÃO ATMOSFERICA MIN. NA HORA ANT. (AUT) (mB)
+- RADIACAO GLOBAL (Kj/m²)
+- TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)
+- TEMPERATURA DO PONTO DE ORVALHO (°C)
+- TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C)
+- TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C)
+- TEMPERATURA ORVALHO MAX. NA HORA ANT. (AUT) (°C)
+- TEMPERATURA ORVALHO MIN. NA HORA ANT. (AUT) (°C)
+- UMIDADE REL. MAX. NA HORA ANT. (AUT) (%)
+- UMIDADE REL. MIN. NA HORA ANT. (AUT) (%)
+- UMIDADE RELATIVA DO AR, HORARIA (%)
+- VENTO, DIREÇÃO HORARIA (gr) (° (gr))
+- VENTO, RAJADA MAXIMA (m/s)
+- VENTO, VELOCIDADE HORARIA (m/s)
+
 
 # 8.   	Metodologia e Resultados Esperados
  
