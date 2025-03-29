@@ -32,6 +32,9 @@ Um dos aspectos importantes é o armazenamento de dados sensíveis, como o ender
 A IA será utilizada na questão de análise de dados, onde as chuvas serão analisadas ao longo do tempo para poder gerar a previsão do próximo 
 
 # 7. Dataset
+
+Nossa base de dados contém uma coluna que se refere à data, outra coluna com os horários do dia, espaçados em períodos de 1 hora cada, uma coluna dizendo a quantidade de precipitação em milímetros naquele momento, e por fim, temos 3 colunas dizendo a umidade relativa do ar média, mínima e máxima, em porcentagem.
+
 # 8.   	Metodologia e Resultados Esperados
  
 Metodologia
