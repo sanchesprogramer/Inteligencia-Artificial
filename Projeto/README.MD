@@ -103,7 +103,7 @@ Por fim, seria enviado um alerta a um centro de mitigação de risco contendo es
 
 Pode-se concluir que, o projeto não possui apenas como objetivo reduzir perdas humanas e materiais, mas criar uma ferramenta capaz de auxiliar autoridades, gestores e especialistas para tomada de decisão que irá proteger a população em geral. O mesmo irá enfrentar de forma proativa os desafios e perigos criados pelas mudanças climáticas gerando assim um futuro mais seguro, sereno, resiliente e sustentável.
  
-# 10. Referências
+# 11. Referências
  
 ABDELWAHAB, M. ABO-ZAHHAD, M. ABRAHAM, K. Classification and detection of natural disasters using machine learning and deep learning techniques: A review. Earth Sci Inform. Egito. v.17. n 1. p 869–891 (2024). https://doi.org/10.1007/s12145-023-01205-2
 
