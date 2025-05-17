@@ -8,7 +8,7 @@ Gabriel William Pauleti
 1Faculdade de Computação e Informática (FCI) Universidade Presbiteriana Mackenzie – São Paulo, SP – Brasil
 2Programa de pós-graduação em Computação Aplicada – Faculdade de Computação e Informática (FCI) – Universidade Presbiteriana Mackenzie – São Paulo, SP – Brasil
  
-{10400771, 104034018, 10400878}@mackenzista.com.br
+{10400771, 10403418, 10400878}@mackenzista.com.br
  
  
 Palavras-chave: Machine learning, IA , IOT, desastres naturais, mitigação de desastres
